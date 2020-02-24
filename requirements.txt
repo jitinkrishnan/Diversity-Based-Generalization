@@ -1,0 +1,12 @@
+nltk
+tensorflow
+keras
+torch
+pytorch-transformers
+sklearn
+seqeval
+sklearn
+pandas
+numpy
+scipy
+
