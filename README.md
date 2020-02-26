@@ -1,7 +1,7 @@
 ## Diversity-Based Generalization for Neural Unsupervised Text Classification under Domain Shift
 
-### Publication
-Coming soon...
+### Paper/Cite
+https://arxiv.org/pdf/2002.10937.pdf
 
 ### Requirements
 Python3.6, Keras, Tensorflow.
