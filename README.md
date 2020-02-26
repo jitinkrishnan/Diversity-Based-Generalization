@@ -3,6 +3,10 @@
 ### Paper/Cite
 https://arxiv.org/pdf/2002.10937.pdf
 
+### Why use this method? (See paper for detailed performance comparison)
+- No unlabeled target needed to train the model (which means no gradient reversal or manual pivot extractions). Out-of-the-box adaptable to any domain. 
+- Computationally much cheaper than the state-of-the-art methods which uses unlabeled target data, with no trade-off in performance.
+
 ### Requirements
 Python3.6, Keras, Tensorflow.
 Or ```pip install -r requirements.txt``` to install necessary packages.
