@@ -17,15 +17,14 @@ Or ```pip install -r requirements.txt``` to install necessary packages.
 Download [GoogleNews-vectors-negative300.bin](https://code.google.com/archive/p/word2vec/)
 
 ### Data
-All datasets in **[raw_data](https://github.com/anonymous7739/IJCAI2020_7739/tree/master/raw_data)** folder.
+All datasets in **[raw_data](https://github.com/jitinkrishnan/Diversity-Based-Generalization/tree/master/raw_data)** folder.
 
 @user mentions anonymized for twitter data.
 
 #### To add new dataset:
-Place your positive/negative/unlabeled in the **[raw_data](https://github.com/anonymous7739/IJCAI2020_7739/tree/master/raw_data)** folder (no preprocessing needed) and name the files accordingly.
+Place your positive/negative/unlabeled in the **[raw_data](https://github.com/jitinkrishnan/Diversity-Based-Generalization/tree/master/raw_data)** folder (no preprocessing needed) and name the files accordingly.
 
-
-### Sample Runs
+### Sample Runs of all models
 #### BiLSTM
 ```python bilstm.py 'electronics' 'kitchen```
 
