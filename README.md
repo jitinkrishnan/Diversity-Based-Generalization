@@ -1,6 +1,6 @@
 ## Diversity-Based Generalization for Neural Unsupervised Text Classification under Domain Shift
 
-Purpose of the model: Train a classifier in one domain where plenty of data is available and generalize it to another domain with **zero** data.
+**Purpose of the model**: Train a classifier in one domain where plenty of data is available and generalize it to another domain with **zero** data.
 
 ### Paper/Cite
 https://arxiv.org/pdf/2002.10937.pdf
@@ -17,9 +17,7 @@ Or ```pip install -r requirements.txt``` to install necessary packages.
 Download [GoogleNews-vectors-negative300.bin](https://code.google.com/archive/p/word2vec/)
 
 ### Data
-All datasets in **[raw_data](https://github.com/jitinkrishnan/Diversity-Based-Generalization/tree/master/raw_data)** folder.
-
-@user mentions anonymized for twitter data.
+All datasets in **[raw_data](https://github.com/jitinkrishnan/Diversity-Based-Generalization/tree/master/raw_data)** folder. @user mentions anonymized for twitter data.
 
 #### To add new dataset:
 Place your positive/negative/unlabeled in the **[raw_data](https://github.com/jitinkrishnan/Diversity-Based-Generalization/tree/master/raw_data)** folder (no preprocessing needed) and name the files accordingly.
