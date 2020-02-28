@@ -41,4 +41,5 @@ Place your positive/negative/unlabeled in the **[raw_data](https://github.com/ji
 #### BiLSTM + MHAD + Tri-II
 ```python bilstm_mhad_tri_II.py 'electronics' 'kitchen'```
 
-
+### Contact information
+For help or issues, please submit a GitHub issue or contact Jitin Krishnan (`jkrishn2@gmu.edu`).
