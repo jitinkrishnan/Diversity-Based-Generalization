@@ -3,7 +3,7 @@
 **Purpose of the model**: Train a classifier in one domain where plenty of data is available and generalize it to another domain with **zero** data.
 
 ### Paper/Cite
-https://arxiv.org/pdf/2002.10937.pdf
+https://arxiv.org/abs/2002.10937
 
 ### Why use this method? (See paper for detailed performance comparison)
 - Unlike most state-of-the-art methods, no unlabeled target data is needed to train the model (which means no gradient reversal or manual pivot extractions). Out-of-the-box adaptable to any domain. 
