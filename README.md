@@ -1,4 +1,4 @@
-## Diversity-Based Generalization for Neural Unsupervised Text Classification under Domain Shift
+## Diversity-Based Generalization for Unsupervised Text Classification under Domain Shift
 
 **Purpose of the model**: Train a classifier in one domain where plenty of data is available and generalize it to another domain with **zero** data.
 
