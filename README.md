@@ -25,7 +25,7 @@ https://arxiv.org/abs/2002.10937
 | dvd-books           | 88.74 |
 | dvd-electronics     | 86.21 |
 | dvd-kitchen         | 87.37 |
-| Average		          | 86.54 |
+| **Average**		          | **86.54** |
 
 ### Requirements
 Python3.6, Keras, Tensorflow.
