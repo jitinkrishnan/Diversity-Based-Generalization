@@ -6,8 +6,26 @@
 https://arxiv.org/abs/2002.10937
 
 ### Why use this method? (See paper for detailed performance comparison)
-- Unlike most state-of-the-art methods, no unlabeled target data is needed to train the model (which means no gradient reversal or manual pivot extractions). Out-of-the-box adaptable to any domain. 
-- Computationally much cheaper than the state-of-the-art methods which uses unlabeled target data, with no trade-off in performance.
+- Unlike the existing state-of-the-art methods, no unlabeled target data is needed to train the model (which means no gradient reversal or manual pivot extractions). Our model is out-of-the-box adaptable to any domain. 
+- Computationally much cheaper as it does not use unlabeled target data, with no trade-off in performance.
+
+#### Results on [Blitzer Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
+
+| Task  | Accuracy in %  |
+ :-: |  :-:
+| books-dvd           | 87.46 |
+| books-electronics   | 86.08 |
+| books-kitchen       | 87.68 |
+| kitchen-books       | 84.23 |
+| kitchen-dvd         | 83.34 |
+| kitchen-electronics | 89.22 |
+| electronics-books   | 84.33 |
+| electronics-kitchen | 91.05 |
+| electronics-dvd     | 82.81 |
+| dvd-books           | 88.74 |
+| dvd-electronics     | 86.21 |
+| dvd-kitchen         | 87.37 |
+| Average		          | 86.54 |
 
 ### Requirements
 Python3.6, Keras, Tensorflow.
