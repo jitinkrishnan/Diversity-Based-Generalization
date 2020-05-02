@@ -27,6 +27,13 @@ https://arxiv.org/abs/2002.10937
 | dvd-kitchen         | 87.37 |
 | **Average**		          | **86.54** |
 
+#### Results on the newly labeled [Crisis Dataset](https://github.com/jitinkrishnan/Diversity-Based-Generalization/tree/master/raw_data)
+
+| Task  | Accuracy in %  |
+ :-: |  :-:
+| Harvey-Florence    | 78.11 |
+| Harvey-Irma        | 64.38 |
+
 ### Requirements
 Python3.6, Keras, Tensorflow.
 Or ```pip install -r requirements.txt``` to install necessary packages.
