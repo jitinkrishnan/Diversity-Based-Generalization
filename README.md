@@ -31,8 +31,16 @@ https://arxiv.org/abs/2002.10937 (To appear at [ECML-PKDD 2020](https://ecmlpkdd
 
 | Task  | Accuracy in %  |
  :-: |  :-:
-| Harvey-Florence    | 78.11 |
-| Harvey-Irma        | 64.38 |
+| Harvey-Florence     | 78.11 |
+| Harvey-Irma         | 64.38 |
+
+#### Results on very divergent datasets such as [Yelp](https://www.yelp.com/dataset/challenge) and [IMDb](https://ai.stanford.edu/~amaas/data/sentiment/), in addition to Amazon Reviews. (3 randomly selected combinations).
+
+| Task  | Accuracy in %  |
+ :-: |  :-:
+| Electronics-Yelp  | 89.15 |
+| Kitchen-IMDb      | 78.33 |
+| Yelp-IMDb         | 77.28 |
 
 ### Requirements
 Python3.6, Keras, Tensorflow.
