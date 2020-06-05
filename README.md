@@ -3,7 +3,7 @@
 **Purpose of the model**: Train a classifier in one domain where plenty of data is available and generalize it to another domain with **zero** data.
 
 ### Paper/Cite
-https://arxiv.org/abs/2002.10937
+https://arxiv.org/abs/2002.10937 (To appear at [ECML-PKDD 2020](https://ecmlpkdd2020.net))
 
 ### Why use this method? (See paper for detailed performance comparison)
 - Unlike the existing state-of-the-art methods, no unlabeled target data is needed to train the model (which means no gradient reversal or manual pivot extractions). Our model is out-of-the-box adaptable to any domain. 
