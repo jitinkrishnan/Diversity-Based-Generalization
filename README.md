@@ -6,8 +6,8 @@
 https://arxiv.org/abs/2002.10937 (To appear at [ECML-PKDD 2020](https://ecmlpkdd2020.net))
 
 ### Why use this method? (See paper for detailed performance comparison)
-- Unlike the existing state-of-the-art methods, no unlabeled target data is needed to train the model (which means no gradient reversal or manual pivot extractions). Our model is out-of-the-box adaptable to any domain. 
-- Computationally much cheaper as it does not use unlabeled target data, with no trade-off in performance.
+- Unlike the existing state-of-the-art unsupervised methods, no **unlabeled** target data is needed to train the model. Our model is out-of-the-box adaptable to any domain. 
+- Computationally much cheaper (days to a few hours on a cpu) as it does not use unlabeled target data (which means no gradient reversal or manual pivot extractions), with no trade-off in performance.
 
 #### Results on [Blitzer Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 
