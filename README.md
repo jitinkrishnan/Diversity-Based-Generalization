@@ -1,6 +1,6 @@
 ## Diversity-Based Generalization for Unsupervised Text Classification under Domain Shift
 
-**Purpose of the model**: Train a classifier in one domain where plenty of data is available and generalize it to another domain with **zero** data.
+**Purpose of the model**: Train a classifier in one domain where plenty of data is available and generalize it to another domain that has **no** (labeled or unlabeled) data.
 
 ### Paper/Cite
 https://arxiv.org/abs/2002.10937 (To appear at [ECML-PKDD 2020](https://ecmlpkdd2020.net))
