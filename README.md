@@ -4,6 +4,14 @@
 
 ### Paper/Cite
 https://arxiv.org/abs/2002.10937 (To appear at [ECML-PKDD 2020](https://ecmlpkdd2020.net))
+```
+@article{krishnanDiversity,
+  title={Diversity-Based Generalization for Unsupervised Text Classification under Domain Shift},
+  author={Krishnan, Jitin and Purohit, Hemant and Rangwala, Huzefa},
+  booktitle={The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
+  year={2020}
+}
+```
 
 ### Why use this method? (See paper for detailed performance comparison)
 - Unlike the existing state-of-the-art unsupervised methods, no **unlabeled** target data is needed to train the model. Our model is out-of-the-box adaptable to any domain. 
