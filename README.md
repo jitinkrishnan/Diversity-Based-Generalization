@@ -8,7 +8,7 @@ https://arxiv.org/abs/2002.10937 (To appear at [ECML-PKDD 2020](https://ecmlpkdd
 @article{krishnanDiversity,
   title={Diversity-Based Generalization for Unsupervised Text Classification under Domain Shift},
   author={Krishnan, Jitin and Purohit, Hemant and Rangwala, Huzefa},
-  booktitle={The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
+  journal={The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
   year={2020}
 }
 ```
